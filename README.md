@@ -9,81 +9,97 @@
 - 👨‍💻 All of my projects are available at [github.com/puravking](https://github.com/puravking)
 - 🧠 Currently building: **Event Calendar, E-Commerce Site & Performance Dashboard**
 - 💬 Ask me about **MERN Stack, Tailwind, Framer Motion, MongoDB, and Express**
-- 📫 How to reach me: **kumarpurav59@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/purav-5641b7254/)
+- 📫 Reach me at: **kumarpurav59@gmail.com**
+- 📄 Know more: [LinkedIn](https://www.linkedin.com/in/purav-5641b7254/)
 - ⚡ Fun fact: *I’m addicted to solving LeetCode problems daily*
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+</td>
+  </tr>
+  <tr>
+    <td><b>Dev Tools</b></td>
+    <td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+</td>
+  </tr>
+  <tr>
+    <td><b>Database & Hosting</b></td>
+    <td>
+
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 My Projects
+## 📂 Featured Projects
 
 | Name | Description | Tech |
 |------|-------------|------|
-| 🎒 Premium Bag Store | E-commerce website with admin panel | MERN, Tailwind |
-| 📅 Custom Event Calendar | Event manager with monthly view & recurrence | React, date-fns, react-dnd |
-| 📊 HR Performance Dashboard | Tracks employee KPIs & metrics | Next.js, Chart.js |
-| 🧾 Todo App | Task manager with auth & animations | React, Express, MongoDB |
+| 🎒 Premium Bag Store | E-commerce site with admin panel | MERN, Tailwind |
+| 📅 Custom Event Calendar | Event CRUD, drag-drop, recurrence | React, date-fns, react-dnd |
+| 📊 HR Performance Dashboard | Tracks KPIs visually | Next.js, Chart.js |
+| ✅ Animated Todo App | Task manager with login/auth | React, Express, MongoDB |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puravking&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=puravking&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=puravking&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=puravking&theme=tokyonight" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puravking&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puravking&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
-## 📝 Blog / YouTube (Optional)
+## 🧠 Fun Facts
 
-<!-- Remove if not applicable -->
-- [How I Built a Premium MERN Shop in 7 Days](#)
-- [Creating a Calendar from Scratch in React](#)
-
----
-
-## 🛠️ Tools I Use
-
-- 🖥️ VS Code
-- 🧰 Postman, MongoDB Compass
-- ⚙️ Git & GitHub
-- 📐 Figma for UI mockups
-- 🧪 Jest & React Testing Library (basic)
+- 🎧 Always coding with Talha Anjum on loop.
+- 🤝 Love helping friends connect and build.
+- 🚀 Dreaming of building the next big startup!
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Let's Connect
 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: kumarpurav59@gmail.com
+- 📧 Email: **kumarpurav59@gmail.com**
 - 🔗 [GitHub](https://github.com/puravking)
 - 💼 [LinkedIn](https://linkedin.com/in/purav-5641b7254/)
-- 🧠 [LeetCode](https://leetcode.com/your_leetcode_username/)
-
----
-
-## 🧩 Fun Facts
-
-- 🧘 I balance code with mindfulness.
-- 🎧 Always coding with Talha Anjum in the background.
-- 🤝 Love connecting friends and building networks.
-
----
-
